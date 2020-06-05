@@ -27,7 +27,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ```
 Base_URl : https://agile-hamlet-65644.herokuapp.com
 
-URl : https://agile-hamlet-65644.herokuapp.com/api/v1/product
 ```
 
 ### Product List Endpoint (@GET)
